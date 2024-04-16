@@ -1,0 +1,18 @@
+body {
+  color: rgba(255, 255, 255, 0.87) !important;
+  background-color: #242424 !important;
+  min-height: 100vh !important;
+}
+#root {
+  min-height: 100vh;
+}
+a {
+  text-decoration: none !important;
+  padding: 5px !important;
+}
+.active {
+  background-color: purple;
+  border-radius: 4px;
+  color: white;
+  box-shadow: 0 0 10px purple;
+}
